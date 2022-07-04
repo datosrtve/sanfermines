@@ -1,0 +1,570 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.64597,
+                        42.82029,
+                        0
+                    ],
+                    [
+                        -1.64609,
+                        42.82024,
+                        0
+                    ],
+                    [
+                        -1.64611,
+                        42.82023,
+                        0
+                    ],
+                    [
+                        -1.64618,
+                        42.8201,
+                        0
+                    ],
+                    [
+                        -1.64615,
+                        42.82008,
+                        0
+                    ],
+                    [
+                        -1.64612,
+                        42.82006,
+                        0
+                    ],
+                    [
+                        -1.64611,
+                        42.82004,
+                        0
+                    ],
+                    [
+                        -1.64611,
+                        42.82003,
+                        0
+                    ],
+                    [
+                        -1.6461,
+                        42.82001,
+                        0
+                    ],
+                    [
+                        -1.64609,
+                        42.81999,
+                        0
+                    ],
+                    [
+                        -1.64607,
+                        42.81993,
+                        0
+                    ],
+                    [
+                        -1.64605,
+                        42.81989,
+                        0
+                    ],
+                    [
+                        -1.64602,
+                        42.81979,
+                        0
+                    ],
+                    [
+                        -1.646,
+                        42.81973,
+                        0
+                    ],
+                    [
+                        -1.64591,
+                        42.81947,
+                        0
+                    ],
+                    [
+                        -1.64588,
+                        42.8194,
+                        0
+                    ],
+                    [
+                        -1.64584,
+                        42.81935,
+                        0
+                    ],
+                    [
+                        -1.6458,
+                        42.81931,
+                        0
+                    ],
+                    [
+                        -1.6457,
+                        42.81921,
+                        0
+                    ],
+                    [
+                        -1.64562,
+                        42.81913,
+                        0
+                    ],
+                    [
+                        -1.64552,
+                        42.81905,
+                        0
+                    ],
+                    [
+                        -1.64544,
+                        42.81897,
+                        0
+                    ],
+                    [
+                        -1.64536,
+                        42.81894,
+                        0
+                    ],
+                    [
+                        -1.64523,
+                        42.81888,
+                        0
+                    ],
+                    [
+                        -1.6451,
+                        42.81883,
+                        0
+                    ],
+                    [
+                        -1.64488,
+                        42.81872,
+                        0
+                    ],
+                    [
+                        -1.64468,
+                        42.81861,
+                        0
+                    ],
+                    [
+                        -1.64447,
+                        42.8185,
+                        0
+                    ],
+                    [
+                        -1.64445,
+                        42.81849,
+                        0
+                    ],
+                    [
+                        -1.64426,
+                        42.81837,
+                        0
+                    ],
+                    [
+                        -1.64419,
+                        42.81833,
+                        0
+                    ],
+                    [
+                        -1.64407,
+                        42.81824,
+                        0
+                    ],
+                    [
+                        -1.64397,
+                        42.81822,
+                        0
+                    ],
+                    [
+                        -1.64383,
+                        42.81826,
+                        0
+                    ],
+                    [
+                        -1.64369,
+                        42.8183,
+                        0
+                    ],
+                    [
+                        -1.64346,
+                        42.81837,
+                        0
+                    ],
+                    [
+                        -1.64307,
+                        42.81847,
+                        0
+                    ],
+                    [
+                        -1.643,
+                        42.81848,
+                        0
+                    ],
+                    [
+                        -1.6424,
+                        42.81775,
+                        0
+                    ],
+                    [
+                        -1.64211,
+                        42.81743,
+                        0
+                    ],
+                    [
+                        -1.64208,
+                        42.81739,
+                        0
+                    ],
+                    [
+                        -1.64148,
+                        42.81656,
+                        0
+                    ],
+                    [
+                        -1.64132,
+                        42.81628,
+                        0
+                    ],
+                    [
+                        -1.64125,
+                        42.81618,
+                        0
+                    ],
+                    [
+                        -1.6412,
+                        42.81611,
+                        0
+                    ],
+                    [
+                        -1.64118,
+                        42.81609,
+                        0
+                    ],
+                    [
+                        -1.64116,
+                        42.81606,
+                        0
+                    ],
+                    [
+                        -1.64113,
+                        42.81604,
+                        0
+                    ],
+                    [
+                        -1.64108,
+                        42.816,
+                        0
+                    ],
+                    [
+                        -1.64103,
+                        42.81595,
+                        0
+                    ],
+                    [
+                        -1.64088,
+                        42.81585,
+                        0
+                    ],
+                    [
+                        -1.64079,
+                        42.81579,
+                        0
+                    ],
+                    [
+                        -1.64077,
+                        42.81578,
+                        0
+                    ],
+                    [
+                        -1.64072,
+                        42.81574,
+                        0
+                    ],
+                    [
+                        -1.64062,
+                        42.81579,
+                        0
+                    ],
+                    [
+                        -1.6406,
+                        42.8158,
+                        0
+                    ],
+                    [
+                        -1.64057,
+                        42.8158,
+                        0
+                    ],
+                    [
+                        -1.64008,
+                        42.81577,
+                        0
+                    ],
+                    [
+                        -1.63977,
+                        42.81582,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Indicaciones de C. de Santo Domingo, 1-343, 31001 Pamplona, Navarra, España a P.º Hemingway, s/n, 31002 Pamplona, Navarra, España",
+                "styleUrl": "#line-1267FF-5000-nodesc",
+                "styleHash": "4b899179",
+                "styleMapHash": {
+                    "normal": "#line-1267FF-5000-nodesc-normal",
+                    "highlight": "#line-1267FF-5000-nodesc-highlight"
+                },
+                "stroke": "#1267ff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6459739,
+                    42.8202899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "C. de Santo Domingo, 1-343, 31001 Pamplona, Navarra, España",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "styleHash": "39590fa4",
+                "styleMapHash": {
+                    "normal": "#icon-1899-DB4436-nodesc-normal",
+                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6397737,
+                    42.8158164,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "P.º Hemingway, s/n, 31002 Pamplona, Navarra, España",
+                "styleUrl": "#icon-1899-DB4436-nodesc",
+                "styleHash": "39590fa4",
+                "styleMapHash": {
+                    "normal": "#icon-1899-DB4436-nodesc-normal",
+                    "highlight": "#icon-1899-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.644036,
+                    42.818302,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 1<br>id: 0fd50c4201b870a42cb7c8974054d48c<br>place_name: Plaza del Ayuntamiento<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "1",
+                "id": "0fd50c4201b870a42cb7c8974054d48c",
+                "place_name": "Plaza del Ayuntamiento",
+                "accuracy": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64618,
+                    42.820166,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 2<br>id: 87d963007678f45d8f1d718e6646f4de<br>place_name: Corrales de Santo Domingo<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "2",
+                "id": "87d963007678f45d8f1d718e6646f4de",
+                "place_name": "Corrales de Santo Domingo",
+                "accuracy": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64206,
+                    42.817348,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 3<br>id: 8cb4c4c3c5b0bf15341d2dac484752d1<br>place_name: Calle Estafeta<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "3",
+                "id": "8cb4c4c3c5b0bf15341d2dac484752d1",
+                "place_name": "Calle Estafeta",
+                "accuracy": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.643578,
+                    42.818338,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 4<br>id: address.2947394360547802<br>place_name: Calle Mercaderes<br>accuracy: rooftop",
+                "descripción": "",
+                "cartodb_id": "4",
+                "id": "address.2947394360547802",
+                "place_name": "Calle Mercaderes",
+                "accuracy": "rooftop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.645448,
+                    42.818971,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 5<br>id: address.8486334370362658<br>place_name: Cuesta de Santo Domingo<br>accuracy: rooftop",
+                "descripción": "",
+                "cartodb_id": "5",
+                "id": "address.8486334370362658",
+                "place_name": "Cuesta de Santo Domingo",
+                "accuracy": "rooftop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.642995,
+                    42.818485,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 6<br>id: b0a2edf0c6a1b3dbf9cf87b4fbd065ba<br>place_name: Curva de Mercaderes<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "6",
+                "id": "b0a2edf0c6a1b3dbf9cf87b4fbd065ba",
+                "place_name": "Curva de Mercaderes",
+                "accuracy": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64107,
+                    42.815984,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 7<br>id: b5a6819fe2fbe0c851e9f3c32d99ec5b<br>place_name: Curva de Telefónica<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "7",
+                "id": "b5a6819fe2fbe0c851e9f3c32d99ec5b",
+                "place_name": "Curva de Telefónica",
+                "accuracy": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.639481,
+                    42.815889,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#icon-1899-0288D1",
+                "styleHash": "-21fe3a8d",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-normal",
+                    "highlight": "#icon-1899-0288D1-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+                "description": "descripción: <br>cartodb_id: 8<br>id: c70c52b8ea1d565b3f84dede4b38bd73<br>place_name: Plaza de toros<br>accuracy: ",
+                "descripción": "",
+                "cartodb_id": "8",
+                "id": "c70c52b8ea1d565b3f84dede4b38bd73",
+                "place_name": "Plaza de toros",
+                "accuracy": ""
+            }
+        }
+    ]
+}
